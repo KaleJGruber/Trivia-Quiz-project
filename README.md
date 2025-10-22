@@ -18,5 +18,5 @@ A simple terminal-based trivia quiz built with Python. Answer multiple-choice qu
 2. Make sure your file is named `quiz.py`
 3. Open the terminal and run:
    ```bash
-   python3 quiz.py
+   python quiz.py
 
